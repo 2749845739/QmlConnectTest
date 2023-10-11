@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>target_test.qml</file>
+        <file>connect_test.qml</file>
+        <file>custom_signal.qml</file>
+        <file>my_dialog.qml</file>
+        <file>my_combobox.qml</file>
+        <file>MyRec.qml</file>
+        <file>MyScroll.qml</file>
+        <file>MyTable.qml</file>
+        <file>temp.qml</file>
+    </qresource>
+</RCC>
